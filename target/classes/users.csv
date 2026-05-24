@@ -1,0 +1,7 @@
+id,username,password,role,active,email
+CA-0001,Pro,admin,COURSE_ADMINISTRATOR,true,pro@example.com
+AO-0001,staff,pass123,ACADEMIC_OFFICER,true,staff@example.com
+AO-0002,blocked,pass123,ACADEMIC_OFFICER,false,blocked@example.com
+CA-0002,Aayan,pass123,COURSE_ADMINISTRATOR,true,aayan@example.com
+AO-0003,Aimen,Aimen123,ACADEMIC_OFFICER,true,aimen@example.com
+CA-0003,Afnan,Afnan123,COURSE_ADMINISTRATOR,true,afnan@example.com

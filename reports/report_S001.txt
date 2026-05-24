@@ -1,0 +1,19 @@
+ACADEMIC PERFORMANCE REPORT
+Generated: 2025-12-14 01:39
+
+Student ID: S001
+Student Name: Fiona Smith
+
+Course ID    | Marks  | Grade  | Credits
+------------------------------------------------------
+C201         | -      | A      | 4.0    
+C202         | -      | B      | 3.0    
+C203         | -      | C      | 2.0    
+
+Summary
+-------
+Total Courses: 3
+Passed: 3
+Failed: 0
+GPA: 3.22
+

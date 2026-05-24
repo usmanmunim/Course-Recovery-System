@@ -1,0 +1,20 @@
+ACADEMIC PERFORMANCE REPORT
+Generated: 2025-12-14 18:09
+
+Student ID: S015
+Student Name: Alice Wilson
+Semester: All   Year: All
+
+Course ID    | Grade  | Credits
+------------------------------------------------------
+C213         | A-     | 4.0    
+C214         | B+     | 4.0    
+C215         | B      | 4.0    
+
+Summary
+-------
+Total Courses: 3
+Passed: 3
+Failed: 0
+GPA: 3.40
+

@@ -1,0 +1,11 @@
+CA-0001,Pro,admin,COURSE_ADMINISTRATOR,true,Pro@crs.edu
+AO-0001,staff,pass123,ACADEMIC_OFFICER,true,staff@crs.edu
+AO-0002,blocked,pass123,ACADEMIC_OFFICER,false,blocked@crs.edu
+CA-0002,Aayan,pass123,COURSE_ADMINISTRATOR,true,Aayan@crs.edu
+AO-0003,Aimen,Aimen123,ACADEMIC_OFFICER,true,Aimen@crs.edu
+CA-0003,Afnan,Afnan123,COURSE_ADMINISTRATOR,true,Afnan@crs.edu
+CA-0004,0,0,COURSE_ADMINISTRATOR,true,0@crs.edu
+AO-0004,1,1,ACADEMIC_OFFICER,true,1@crs.edu
+CA-0005,Ahmed,123,COURSE_ADMINISTRATOR,true,muaayanuh@gmail.com
+
+CA-0006,usman,1234,COURSE_ADMINISTRATOR,true,usmanmunim30@gmail.com

@@ -1,0 +1,19 @@
+ACADEMIC PERFORMANCE REPORT
+Generated: 2025-12-14 14:32
+
+Student ID: S007
+Student Name: Oscar Smith
+
+Course ID    | Grade  | Credits
+------------------------------------------------------
+C223         | A      | 4.0    
+C226         | B      | 3.0    
+C231         | B+     | 3.0    
+
+Summary
+-------
+Total Courses: 3
+Passed: 3
+Failed: 0
+GPA: 3.55
+

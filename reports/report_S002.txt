@@ -1,0 +1,19 @@
+ACADEMIC PERFORMANCE REPORT
+Generated: 2025-12-14 04:30
+
+Student ID: S002
+Student Name: George Wilson
+
+Course ID    | Grade  | Credits
+------------------------------------------------------
+C201         | F      | 4.0    
+C202         | D      | 3.0    
+C203         | C      | 2.0    
+
+Summary
+-------
+Total Courses: 3
+Passed: 2
+Failed: 1
+GPA: 0.78
+

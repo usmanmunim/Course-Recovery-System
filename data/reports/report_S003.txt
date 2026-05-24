@@ -1,0 +1,20 @@
+ACADEMIC PERFORMANCE REPORT
+Generated: 2025-12-14 18:09
+
+Student ID: S003
+Student Name: Ivan Wilson
+Semester: All   Year: All
+
+Course ID    | Grade  | Credits
+------------------------------------------------------
+C204         | B+     | 4.0    
+C205         | A-     | 4.0    
+C212         | B      | 3.0    
+
+Summary
+-------
+Total Courses: 3
+Passed: 3
+Failed: 0
+GPA: 3.44
+
