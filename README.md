@@ -95,19 +95,6 @@ Then run the main class:
 mvn exec:java -Dexec.mainClass="crs.gui.LoginFrame"
 ```
 
-## Screenshots
-
-Add your project screenshots here.
-
-Example:
-
-```md
-![Login Screen](screenshots/login.png)
-![Main Menu](screenshots/main-menu.png)
-![Eligibility Check](screenshots/eligibility-check.png)
-![Recovery Plan](screenshots/recovery-plan.png)
-```
-
 ## Learning Outcomes
 
 Through this project, I learned how to:
